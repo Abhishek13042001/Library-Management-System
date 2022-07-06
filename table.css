@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+th{
+ background-color: yellow;
+  color:black;
+}
+body {
+  background-image: url("img1.png");
+}
